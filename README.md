@@ -34,9 +34,9 @@ SHIPPING MEASUREMENT: Pretty much the same for all regions.
 
 3) Machines: ![image](https://github.com/pseudo7799/Power-BI-Projects/assets/156554807/404f579c-924a-41ed-8922-526beef473b6)
 
-SALES AND PROFITABILITY MEASUREMENT: Sales have cyclical realtionship with time but sales-profit relationship is growing steadily. Profit Margins are the highest for this category (61%) and as sales-profit relationsip is growing linearly (profit margin may not be related to reduced sales), Superstore should focus more on increasing the customer base than reducing profit margins.
+SALES AND PROFITABILITY MEASUREMENT: Sales have cyclical realtionship with time but sales-profit relationship is growing steadily. Profit margins are the highest for this category (61%) among all categories and as sales-profit relationsip is growing linearly (profit margin may not be related to reduced sales), Superstore should focus more on increasing the customer base than reducing profit margins.
 
-SHIPPING MEASUREMENT: Central region has very high delivery time but it looks like it has very low demand hence we can go 2 different routes 1) overlook that 2) investigate if higher delivery time has to do anything with lower sales 
+SHIPPING MEASUREMENT: Central region has high delivery time but it looks like it has very low demand hence we should investigate if higher delivery time has to do anything with lower sales 
 
 4) Copiers: ![image](https://github.com/pseudo7799/Power-BI-Projects/assets/156554807/51268428-fd1d-4b43-972c-f96ea44fad49)
 
