@@ -3,3 +3,4 @@ Assigned Data in correct data types ( Numbers, Strings, Date, etc)
 Removed temporal anomalies (Delivery Date preceding the Order Date)
 Created calculated columns for production cost and profit ( As it was not mentioned in the Data)
 Added conditional formatting (bar type) for product categories to showcase sales contribution
+Created a "measure" called "Customer Base" to find how many customers Superstore has in each region
