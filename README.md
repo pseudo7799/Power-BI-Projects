@@ -37,7 +37,22 @@ SALES AND PROFITABILITY MEASUREMENT: Sales have cyclical realtionship with time 
 
 SHIPPING MEASUREMENT: Central region has very high delivery time but it looks like it has very low demand hence we can go 2 different routes 1) overlook that 2) investigate if higher delivery time has to do anything with lower sales 
 
-4) 
+4) Copiers: ![image](https://github.com/pseudo7799/Power-BI-Projects/assets/156554807/51268428-fd1d-4b43-972c-f96ea44fad49)
+
+SALES AND PROFITABILITY MEASUREMENT: Steady growth in sales and profitability.
+SHIPPING MEASUREMENT: South Region has very high delivery time and very low sales. Considering the trend for other 3 regions, we can say delivery time and sales is directly proprotional.
+
+
+
+Similarly, Superstore can find out the areas of improvement for other product categories.
+
+
+Additional Analysis - 
+1) South Region has the lowest customer base, lowest sales for every single product category.
+2) Consumer segment makes 50% of all sales among Consumer, Home Office and Corporate segments.
+
+
+
 
 
       
