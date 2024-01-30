@@ -26,6 +26,7 @@ SALES AND PROFITABILITY MEASUREMENT: Top performer in sales and strong sales-pro
 SHIPPING MEASUREMENT: 1) Find relationship between delivery time and sales in the east region ( NY and PA states specifically) ( Map helps pinpoint states to focus on) 
                       Reason = East Region has significantly higher delivery time than other regions
                       2) South region has lowest delivery time and yet lowest sales as well, why? 
+
 2) Phones: ![image](https://github.com/pseudo7799/Power-BI-Projects/assets/156554807/c3037a3e-5d99-4281-ada3-3b0ba4c79fa3)
 
 SALES AND PROFITABILITY MEASUREMENT: 1) High performer and strong sales-profit relationship. Why sudden jump in sales in 2018, is it related to a region? new product? how to keep it going?                                         2) South Region has the lowest sales and customer base, why is that?
