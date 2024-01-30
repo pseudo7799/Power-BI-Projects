@@ -48,7 +48,7 @@ SHIPPING MEASUREMENT: South Region has very high delivery time and very low sale
 Similarly, Superstore can find out the areas of improvement for other product categories.
 
 
-Additional Analysis - 
+Comments - 
 1) South Region has the lowest customer base, lowest sales for every single product category.
 2) Consumer segment makes 50% of all sales among Consumer, Home Office and Corporate segments.
 
