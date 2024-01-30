@@ -20,7 +20,9 @@ Approach -
 Perform all analysis with product category as base.
 The superstore has 17 product categories mentioned below in order of highest sales to lowest
 
-1) Chairs -  
+1) Chairs -
+2) ![image](https://github.com/pseudo7799/Power-BI-Projects/assets/156554807/de755407-b2c0-4703-af81-a66231c39e25)
+
 
 
                     
