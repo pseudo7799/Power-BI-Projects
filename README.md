@@ -41,7 +41,7 @@ SHIPPING MEASUREMENT: Central region has high delivery time but it looks like it
 4) Copiers: ![image](https://github.com/pseudo7799/Power-BI-Projects/assets/156554807/51268428-fd1d-4b43-972c-f96ea44fad49)
 
 SALES AND PROFITABILITY MEASUREMENT: Steady growth in sales and profitability.
-SHIPPING MEASUREMENT: South Region has very high delivery time and very low sales. Considering the trend for other 3 regions, we can say delivery time and sales is directly proprotional.
+SHIPPING MEASUREMENT: South Region has very high delivery time and very low sales. Considering the trend for other 3 regions, we can say delivery time and sales is directly proprotional and Superstore should perform a correaltion study to verify if delivery time is shortened then sales would go up.
 
 
 
