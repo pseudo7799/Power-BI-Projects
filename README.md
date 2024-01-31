@@ -56,7 +56,8 @@ Comments -
 Additional Visuals - 
 
 1) Top 5 Customers - If Superstore wants to provide perks to their customers
-   ![image](https://github.com/pseudo7799/Power-BI-Projects/assets/156554807/9baec986-d3f4-434b-a2cb-633f79bb238c)
+   ![image](https://github.com/pseudo7799/Power-BI-Projects/assets/156554807/4a2a8d51-592f-490f-b5cd-faa4fb37f3e3)
+
 
 2) Demographic Analysis - If Superstore wants to perform analysis prioritizing demographics instead of product category analysis we saw before then they can use this dashboard
    
